@@ -1,0 +1,12 @@
+
+# VSCode
+/.vscode
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Build directories
+/build*
+
