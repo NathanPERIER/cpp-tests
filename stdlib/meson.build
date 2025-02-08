@@ -1,5 +1,6 @@
 
 stdlib_test_apps = [
+    'math/cast.cc'
 ]
 
 
